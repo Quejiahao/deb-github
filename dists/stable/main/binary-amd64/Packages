@@ -1,0 +1,118 @@
+Package: code-server
+Version: 4.96.2
+Architecture: amd64
+Maintainer: Joe Previte <joe@coder.com>
+Installed-Size: 411031
+Filename: ./pool/main/coder/code-server/v4.96.2/code-server_4.96.2_amd64.deb
+Size: 115721828
+MD5sum: 02b371a565dc2109283c71ee6064077b
+SHA1: d8497faee9b13f98926ff8a1bb6b8db27b1e0596
+SHA256: 106df1bba25d6282d8fb5daa64996d782c03172dda5a3f2b865ed89c726a1d8e
+Section: devel
+Priority: optional
+Homepage: https://github.com/coder/code-server
+Description: Run VS Code in the browser.
+
+Package: git-delta
+Version: 0.18.2
+Architecture: amd64
+Maintainer: Dan Davison <dandavison7@gmail.com>
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 4.2), zlib1g (>= 1:1.1.4)
+Conflicts: delta-musl
+Filename: ./pool/main/dandavison/delta/0.18.2/git-delta_0.18.2_amd64.deb
+Size: 2504860
+MD5sum: 480bf1d99bd849bdd957aaf227853c83
+SHA1: 70039f2d0b2a65ea26bffc864cde188f054586a6
+SHA256: 1658c7b61825d411b50734f34016101309e4b6e7f5799944cf8e4ac542cebd7f
+Section: utils
+Priority: optional
+Description: Syntax highlighter for git
+ Delta provides language syntax-highlighting, within-line insertion/deletion
+ detection, and restructured diff output for git on the command line.
+
+Package: git-delta-musl
+Version: 0.18.2
+Architecture: amd64
+Maintainer: Dan Davison <dandavison7@gmail.com>
+Conflicts: delta
+Filename: ./pool/main/dandavison/delta/0.18.2/git-delta-musl_0.18.2_amd64.deb
+Size: 2582764
+MD5sum: dc273b5191582150ba4b2eccc30230d7
+SHA1: a6084885dc87c94e92c56a6d6445ccfae28702ca
+SHA256: f04829170d70f0dadf1511c31ee39df6f6ecd3c5b8d8a98c757ec69a3aff46b1
+Section: utils
+Priority: optional
+Description: Syntax highlighter for git
+ Delta provides language syntax-highlighting, within-line insertion/deletion
+ detection, and restructured diff output for git on the command line.
+
+Package: pandoc
+Version: 3.6.1-1
+Architecture: amd64
+Maintainer: John MacFarlane <jgm@berkeley.edu>
+Installed-Size: 148732
+Depends: libc6 (>= 2.13), libgmp10, zlib1g (>= 1:1.1.4)
+Suggests: texlive-latex-recommended, texlive-xetex,
+ texlive-fonts-recommended
+Replaces: pandoc-data
+Filename: ./pool/main/jgm/pandoc/3.6.1/pandoc-3.6.1-1-amd64.deb
+Size: 32314708
+MD5sum: f77a1b2052f93e07cbf9723fea992bb5
+SHA1: d308e1d4b76df7fb81ce6e8ddbb6b2068946e617
+SHA256: 20dfaa002d4dc6e5207d58e90d04edf47498bd221eb25f15366c50bdc3218f8e
+Section: text
+Priority: optional
+Description: general markup converter
+  Pandoc is a Haskell library for converting from one markup format
+  to another, and a command-line tool that uses this library. The
+  formats it can handle include light markup formats (many variants
+  of Markdown, reStructuredText, AsciiDoc, Org-mode, Muse, Textile,
+  txt2tags), HTML formats (HTML 4 and 5), ebook formats (EPUB v2
+  and v3, FB2), Documentation formats (GNU TexInfo, Haddock),
+  Roff formats (man, ms), TeX formats (LaTeX, ConTeXt), XML
+  formats (DocBook 4 and 5, JATS, TEI Simple, OpenDocument),
+  outline formats (OPML), bibliography formats (BibTeX, BibLaTeX,
+  CSL JSON, CSL YAML, RIS), word processor formats (Docx, RTF,
+  ODT), interactive notebook formats (Jupyter notebook
+  ipynb), page layout formats (InDesign ICML), wiki markup
+  formats (MediaWiki, DokuWiki, TikiWiki, TWiki, Vimwiki,
+  XWiki, ZimWiki, Jira wiki, Creole), slide show formats
+  (LaTeX Beamer, PowerPoint, Slidy, reveal.js, Slideous, S5,
+  DZSlides), data formats (CSV and TSV tables), and PDF (via
+  external programs such as pdflatex or wkhtmltopdf).
+
+Package: q
+Version: 0.19.2
+Architecture: amd64
+Maintainer: Nate Sales <nate@natesales.net>
+Installed-Size: 8564
+Filename: ./pool/main/natesales/q/v0.19.2/q_0.19.2_linux_amd64.deb
+Size: 3543310
+MD5sum: f8119beddfe1b675bc84d59593b099e4
+SHA1: e84952a4ce5eb4233045023f8e0d364594250dfb
+SHA256: d4f3384db64d41ada91ccbefae26a457d9ea9c93d486c8c2f59e92f0ab09015b
+Section: utils
+Priority: extra
+Homepage: https://natesales.net/
+Description: A tiny CLI DNS client library with support for UDP, TCP, DoT, DoH, and DoQ.
+
+Package: rclone
+Version: 1.68.2
+Architecture: amd64
+Maintainer: Nick Craig-Wood <nick@craig-wood.com>
+Installed-Size: 67135
+Provides: rclone
+Filename: ./pool/main/rclone/rclone/v1.68.2/rclone-v1.68.2-linux-amd64.deb
+Size: 22990096
+MD5sum: 69f2c36529ce04ddcfef53d0d4a9964e
+SHA1: fb9717532959e5aa81464f4e506cf2fc13c11b33
+SHA256: ee138bbc507deb8d2a854aec1a5128e5de0a4069102f2a4a17e62d80e45b0eb2
+Section: default
+Priority: extra
+Homepage: https://rclone.org
+Description: Rclone - "rsync for cloud storage"
+ is a command-line program to sync files and directories to and
+ from most cloud providers. It can also mount, tree, ncdu and lots
+ of other useful things.
+License: MIT
+
