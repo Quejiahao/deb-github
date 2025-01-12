@@ -31,16 +31,16 @@ Description: Syntax highlighter for git
  detection, and restructured diff output for git on the command line.
 
 Package: rclone
-Version: 1.68.2
+Version: 1.69.0
 Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 62327
+Installed-Size: 64159
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.68.2/rclone-v1.68.2-linux-arm-v6.deb
-Size: 21521304
-MD5sum: b4203a90f84f0280e4269e6436c6b061
-SHA1: a273d58ba2a30ed8ca55c7309162947e2ac41d4f
-SHA256: 952d3cb46b4842ca87e8ec5309eb3d98bf6f48dc12ee371ad1cb8cfb7ff8d798
+Filename: ./pool/main/rclone/rclone/v1.69.0/rclone-v1.69.0-linux-arm-v6.deb
+Size: 22138666
+MD5sum: 84de8ddf740498c0e79014fe3ec20b5c
+SHA1: 0209d324a74acb5e60dba32d01348c99ab578da3
+SHA256: 178231ea2706c36ee61df970c21f460c48baafdbc7fb698fc9d74a8e42ea370e
 Section: default
 Priority: extra
 Homepage: https://rclone.org
@@ -51,16 +51,16 @@ Description: Rclone - "rsync for cloud storage"
 License: MIT
 
 Package: rclone
-Version: 1.68.2
+Version: 1.69.0
 Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 62327
+Installed-Size: 64159
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.68.2/rclone-v1.68.2-linux-arm-v7.deb
-Size: 21499844
-MD5sum: 4278f42dbdb7cacb2a26a8296834e70e
-SHA1: 367ba82099e3c5f13c8afd436a9965ca74687e4f
-SHA256: 2b322bce54b34c2595b2ba0eba23ff697c55972ccb6fb47c50072b84ce3b8a91
+Filename: ./pool/main/rclone/rclone/v1.69.0/rclone-v1.69.0-linux-arm-v7.deb
+Size: 22117040
+MD5sum: 53ffdff5084e378a5b4fe98036fdb482
+SHA1: a400d832b99e12b4f25b8dd32d59aecc113863d7
+SHA256: 18fc54a6323fcfca5dae6239df8e0ec68865c609259e7398eb45362249243eb1
 Section: default
 Priority: extra
 Homepage: https://rclone.org

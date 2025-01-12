@@ -47,19 +47,19 @@ Description: Syntax highlighter for git
  detection, and restructured diff output for git on the command line.
 
 Package: pandoc
-Version: 3.6.1-1
+Version: 3.6.2-1
 Architecture: amd64
 Maintainer: John MacFarlane <jgm@berkeley.edu>
-Installed-Size: 148732
+Installed-Size: 149016
 Depends: libc6 (>= 2.13), libgmp10, zlib1g (>= 1:1.1.4)
 Suggests: texlive-latex-recommended, texlive-xetex,
  texlive-fonts-recommended
 Replaces: pandoc-data
-Filename: ./pool/main/jgm/pandoc/3.6.1/pandoc-3.6.1-1-amd64.deb
-Size: 32314708
-MD5sum: f77a1b2052f93e07cbf9723fea992bb5
-SHA1: d308e1d4b76df7fb81ce6e8ddbb6b2068946e617
-SHA256: 20dfaa002d4dc6e5207d58e90d04edf47498bd221eb25f15366c50bdc3218f8e
+Filename: ./pool/main/jgm/pandoc/3.6.2/pandoc-3.6.2-1-amd64.deb
+Size: 32379384
+MD5sum: 8a417facf2fb25e5ef774fdf82fc7610
+SHA1: 0eefda686019f4c1967d54958e3093c1a9506fa0
+SHA256: 6b5e9104a7b1f64f3dfdf0ac547585ff9d462d6a0669d88208996821b96e62bc
 Section: text
 Priority: optional
 Description: general markup converter
@@ -97,16 +97,16 @@ Homepage: https://natesales.net/
 Description: A tiny CLI DNS client library with support for UDP, TCP, DoT, DoH, and DoQ.
 
 Package: rclone
-Version: 1.68.2
+Version: 1.69.0
 Architecture: amd64
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 67135
+Installed-Size: 69375
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.68.2/rclone-v1.68.2-linux-amd64.deb
-Size: 22990096
-MD5sum: 69f2c36529ce04ddcfef53d0d4a9964e
-SHA1: fb9717532959e5aa81464f4e506cf2fc13c11b33
-SHA256: ee138bbc507deb8d2a854aec1a5128e5de0a4069102f2a4a17e62d80e45b0eb2
+Filename: ./pool/main/rclone/rclone/v1.69.0/rclone-v1.69.0-linux-amd64.deb
+Size: 23665802
+MD5sum: 7ab5dcc4688979da75aa11fac70de52f
+SHA1: 7d6172daf7cbe5af5cc3eacd6159a83afb0aa304
+SHA256: 5de54f24c74ece8592051b37067055ea155cc60aa3a20ed2a7a301c1f965a9d2
 Section: default
 Priority: extra
 Homepage: https://rclone.org
