@@ -1,17 +1,18 @@
 Package: code-server
-Version: 4.97.2
+Version: 4.98.0
 Architecture: amd64
 Maintainer: Joe Previte <joe@coder.com>
-Installed-Size: 425935
-Filename: ./pool/main/coder/code-server/v4.97.2/code-server_4.97.2_amd64.deb
-Size: 116947782
-MD5sum: c75335614eaa86b990f812defed04d52
-SHA1: 9e55fe68ac30782fc7404539fc3ecb4cb65ce927
-SHA256: 456e2f1f970e9a0019e4207ad53866209a661896e8b740168a9830410fd43355
+Installed-Size: 382517
+Filename: ./pool/main/coder/code-server/v4.98.0/code-server_4.98.0_amd64.deb
+Size: 104368268
+MD5sum: dfdbc00c2e27459317dd722882fccd83
+SHA1: 1f75f61343332b7bae1de782b77b6cf93bc7d710
+SHA256: 8fb976cebd736391997cc9d0c755863abbcb8ba04df48a1f7ecb6321e69ae5bb
 Section: devel
 Priority: optional
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code in the browser.
+Vendor: Coder
 
 Package: git-delta
 Version: 0.18.2
