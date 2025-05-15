@@ -1,13 +1,13 @@
 Package: code-server
-Version: 4.100.1
+Version: 4.100.2
 Architecture: amd64
 Maintainer: Joe Previte <joe@coder.com>
-Installed-Size: 387615
-Filename: ./pool/main/coder/code-server/v4.100.1/code-server_4.100.1_amd64.deb
-Size: 105516318
-MD5sum: a3d4b9ae2d91dfeecd1d53679be22fe9
-SHA1: 55966ec7b2cc58d8796c73eadf282cbf9e18892b
-SHA256: f8367a44175eb80578cd0dfbf3c91f7bf24d4fd2d21caf2beebeaec889066ca0
+Installed-Size: 387619
+Filename: ./pool/main/coder/code-server/v4.100.2/code-server_4.100.2_amd64.deb
+Size: 105518144
+MD5sum: 7245e4606feafc9a01d65e06eb1a6b57
+SHA1: 4d688903add1e46b4ad5519c3a0f7c2655ca20d9
+SHA256: a7186cb0b59d9188cc9e836b7098bd2da6a13acd252dca137e1536be9c293689
 Section: devel
 Priority: optional
 Homepage: https://github.com/coder/code-server
@@ -48,19 +48,19 @@ Description: Syntax highlighter for git
  detection, and restructured diff output for git on the command line.
 
 Package: pandoc
-Version: 3.6.4-1
+Version: 3.7-1
 Architecture: amd64
 Maintainer: John MacFarlane <jgm@berkeley.edu>
-Installed-Size: 149076
+Installed-Size: 154328
 Depends: libc6 (>= 2.13), libgmp10, zlib1g (>= 1:1.1.4)
 Suggests: texlive-latex-recommended, texlive-xetex,
  texlive-fonts-recommended
 Replaces: pandoc-data
-Filename: ./pool/main/jgm/pandoc/3.6.4/pandoc-3.6.4-1-amd64.deb
-Size: 32409008
-MD5sum: 9b6f138c27be986e5c2af1e8e235ef8a
-SHA1: 1d3bde15213741c6d85bce7863384c72847314ef
-SHA256: 68e5516a5464b12354146e9e23bc41a4c05f302f4ba5def9bdc49f1e2db0d1e0
+Filename: ./pool/main/jgm/pandoc/3.7/pandoc-3.7-1-amd64.deb
+Size: 33141580
+MD5sum: cb7e4629fb5e25bdecb9a2e484742880
+SHA1: 30ee564b9bdd5dbe3d5afea6fa317f9586d2716b
+SHA256: eabddb0cc59e12a14300e08692d05f8745014bb757d3be97ee00a0ee9991df7d
 Section: text
 Priority: optional
 Description: general markup converter
