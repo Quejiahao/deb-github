@@ -1,13 +1,13 @@
 Package: code-server
-Version: 4.101.2
+Version: 4.102.1
 Architecture: armhf
 Maintainer: Joe Previte <joe@coder.com>
-Installed-Size: 391656
-Filename: ./pool/main/coder/code-server/v4.101.2/code-server_4.101.2_armhf.deb
-Size: 107330620
-MD5sum: 3bc096a0c942bd89d3199b9634d4fa11
-SHA1: 9bb6febd76d67397bc770e11d26ab95c956f4575
-SHA256: 15759a0dbf48452572188a692e62d7987ed444abbcbc1a59622a8eb9874e50be
+Installed-Size: 415740
+Filename: ./pool/main/coder/code-server/v4.102.1/code-server_4.102.1_armhf.deb
+Size: 111994050
+MD5sum: 4e6b7e7b9ee54300b32a791ab9093609
+SHA1: 73666fa5491c18fb355c15b53dfe5a603894d039
+SHA256: 94334273e3ed2f78741be1d93e5ab6eeabf6f0351bbb62d8f57532e861e4b2d6
 Section: devel
 Priority: optional
 Homepage: https://github.com/coder/code-server
