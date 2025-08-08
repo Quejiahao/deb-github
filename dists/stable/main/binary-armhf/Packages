@@ -36,11 +36,11 @@ Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
 Installed-Size: 68945
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.70.3/rclone-v1.70.3-linux-arm-v6.deb
-Size: 23778660
-MD5sum: 5d75bfc68e11590d31f7cb0288081670
-SHA1: c7efc0122860d8fc1a2b7c3869a206068163b767
-SHA256: 0596c57919bb212fd15d5742cd49566d1ceb2c7b0ab2d2faa2f37fcf0273e67f
+Filename: ./pool/main/rclone/rclone/v1.70.3/rclone-v1.70.3-linux-arm-v7.deb
+Size: 23759666
+MD5sum: 323575e66bdd84cc998a7e829a33ec48
+SHA1: d2507ed752c9f9557b25837ece5b49c17e61bb34
+SHA256: 901a113683ae9e66e2fee864b53d50fad4c6b079b79427facd033ba96aa656ab
 Section: default
 Priority: extra
 Homepage: https://rclone.org
@@ -56,11 +56,11 @@ Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
 Installed-Size: 68945
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.70.3/rclone-v1.70.3-linux-arm-v7.deb
-Size: 23759666
-MD5sum: 323575e66bdd84cc998a7e829a33ec48
-SHA1: d2507ed752c9f9557b25837ece5b49c17e61bb34
-SHA256: 901a113683ae9e66e2fee864b53d50fad4c6b079b79427facd033ba96aa656ab
+Filename: ./pool/main/rclone/rclone/v1.70.3/rclone-v1.70.3-linux-arm-v6.deb
+Size: 23778660
+MD5sum: 5d75bfc68e11590d31f7cb0288081670
+SHA1: c7efc0122860d8fc1a2b7c3869a206068163b767
+SHA256: 0596c57919bb212fd15d5742cd49566d1ceb2c7b0ab2d2faa2f37fcf0273e67f
 Section: default
 Priority: extra
 Homepage: https://rclone.org
