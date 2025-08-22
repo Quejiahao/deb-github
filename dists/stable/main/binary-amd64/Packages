@@ -98,16 +98,16 @@ Homepage: https://natesales.net/
 Description: A tiny CLI DNS client library with support for UDP, TCP, DoT, DoH, and DoQ.
 
 Package: rclone
-Version: 1.70.3
+Version: 1.71.0
 Architecture: amd64
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 74349
+Installed-Size: 76032
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.70.3/rclone-v1.70.3-linux-amd64.deb
-Size: 25356608
-MD5sum: 6ad476cd63a78180338b9ad57c3fa841
-SHA1: a9b398b13a3e27d196c8d346c5861d61a41b1d4b
-SHA256: 9a77ef42c25162de53354f179d76418a7150caea331617a59a6ebecd29a36845
+Filename: ./pool/main/rclone/rclone/v1.71.0/rclone-v1.71.0-linux-amd64.deb
+Size: 25847346
+MD5sum: 8c71fb13559affc14fbb055564285504
+SHA1: e6120f26a80426dbf98a2a07268b5499c2dbf7b3
+SHA256: 53e35eac5cb5e6e4a9cc04ffe28d5ace695fd335a156f8d17b11df37739b725f
 Section: default
 Priority: extra
 Homepage: https://rclone.org
