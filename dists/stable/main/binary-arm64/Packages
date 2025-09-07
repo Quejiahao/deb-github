@@ -66,19 +66,20 @@ Description: general markup converter
   external programs such as pdflatex or wkhtmltopdf).
 
 Package: q
-Version: 0.19.2
+Version: 0.19.8
 Architecture: arm64
 Maintainer: Nate Sales <nate@natesales.net>
-Installed-Size: 8192
-Filename: ./pool/main/natesales/q/v0.19.2/q_0.19.2_linux_arm64.deb
-Size: 3248444
-MD5sum: 432887a86f45c4fe4ee92ecc04ad54fe
-SHA1: 67c136eb6303d1f02d02cb9d39d1557e5360db8b
-SHA256: 941d19a3c5628e2bc9e53faa5f0006e204856dea0c8c43a7d02427e262495a60
+Installed-Size: 9408
+Filename: ./pool/main/natesales/q/v0.19.8/q_0.19.8_linux_arm64.deb
+Size: 3747262
+MD5sum: 7217870c6a2313e850714ffbb3d89bef
+SHA1: c830262bd7a5e93faf8a8ad00db638681ee139ef
+SHA256: ffbab13090b04a4a6a56d093797b1ca4efd0de29d714977fd6c5f0d568f309d8
 Section: utils
 Priority: extra
 Homepage: https://natesales.net/
 Description: A tiny CLI DNS client library with support for UDP, TCP, DoT, DoH, and DoQ.
+License: GNU GPL-3.0
 
 Package: rclone
 Version: 1.71.0
