@@ -66,15 +66,15 @@ Description: general markup converter
   external programs such as pdflatex or wkhtmltopdf).
 
 Package: q
-Version: 0.19.8
+Version: 0.19.9
 Architecture: arm64
 Maintainer: Nate Sales <nate@natesales.net>
-Installed-Size: 9408
-Filename: ./pool/main/natesales/q/v0.19.8/q_0.19.8_linux_arm64.deb
-Size: 3747262
-MD5sum: 7217870c6a2313e850714ffbb3d89bef
-SHA1: c830262bd7a5e93faf8a8ad00db638681ee139ef
-SHA256: ffbab13090b04a4a6a56d093797b1ca4efd0de29d714977fd6c5f0d568f309d8
+Installed-Size: 9280
+Filename: ./pool/main/natesales/q/v0.19.9/q_0.19.9_linux_arm64.deb
+Size: 3746646
+MD5sum: 7172d1e45660a15cef92434e94af85e7
+SHA1: 980c0b79c66a5ba8e09990cc15e46206a90fa1a7
+SHA256: 6719541ee0215c9634978d6f3c6c51bbb826e473b2f0b809bdeeac43cb376980
 Section: utils
 Priority: extra
 Homepage: https://natesales.net/
