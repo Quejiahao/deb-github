@@ -1,13 +1,13 @@
 Package: code-server
-Version: 4.104.0
+Version: 4.104.1
 Architecture: amd64
 Maintainer: Joe Previte <joe@coder.com>
-Installed-Size: 444799
-Filename: ./pool/main/coder/code-server/v4.104.0/code-server_4.104.0_amd64.deb
-Size: 121480318
-MD5sum: 47f6afa7706940781afa60bee9a17b9d
-SHA1: 4fffc1c6d03da014a555f12187b0ba1cac85f4dc
-SHA256: 2df59551ce4893f37f2563123a17df8d8e0669179f03383e48acf0fc97c1334c
+Installed-Size: 444800
+Filename: ./pool/main/coder/code-server/v4.104.1/code-server_4.104.1_amd64.deb
+Size: 121478700
+MD5sum: 557ed5f594ae97af00fab61badc59464
+SHA1: 6322e82d16a1a343220719db15d9669240cd22ed
+SHA256: 0838028d83b307dc49ab66c82ca5e2fe3a26e0e812cadbf847a30c9650c9cd20
 Section: devel
 Priority: optional
 Homepage: https://github.com/coder/code-server
