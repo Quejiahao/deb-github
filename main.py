@@ -105,3 +105,22 @@ finally:
 # Generate the "Release" file
 with open(os.path.join(release_dir, "Release"), "wb") as f:
     subprocess.run(["apt-ftparchive", "-c", f"{suite}.conf", "release", release_dir], stdin=subprocess.DEVNULL, stdout=f, check=True)
+
+
+# Sign the "Release" file
+signer_api = os.environ.get("SIGNER_API")
+if signer_api:
+    print("Found SIGNER_API, fetch signatures")
+    token = os.environ["GITHUB_TOKEN"]
+    headers = {"Authorization": f"Bearer {token}"}
+    with open(os.path.join(release_dir, "Release"), "r") as f:
+        payload = f.read()
+    resp = requests.post(signer_api, headers=headers, data=payload)
+    print(resp.status_code, resp.text)
+    if resp.status_code != 200:
+        print(f"API failed ({resp.status_code}), skipping signatures")
+    else:
+        data = resp.json()
+        for name in ["Release.gpg", "InRelease"]:
+            with open(os.path.join(release_dir, name), "w") as f:
+                f.write(data[name])

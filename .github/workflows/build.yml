@@ -2,7 +2,7 @@ name: build
 
 on:
   push:
-    branches: [master]
+    branches: [master, sign]
   workflow_dispatch: {}
   schedule:
     - cron: '30 23 * * *'
@@ -17,7 +17,8 @@ jobs:
     - uses: actions/checkout@v4
     - name: Generate package index
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHU_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        SIGNER_API: ${{ secrets.SIGNER_API }}
       run: python3 main.py
     - name: Deploy to GitHub Pages
       if: "github.ref == 'refs/heads/master'"
