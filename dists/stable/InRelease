@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Architectures: all amd64 arm64 armhf i386
 Codename: stable
 Components: main
@@ -73,3 +76,11 @@ SHA512:
  5772e3db64c60d7bc33da052634daf70f25ac98d0e92bc33ed0b1a4cf808fed7fff40bbd458c196a0fd2125653cc00de6a953c89c1b9c72a567e67d4d030016e             1314 main/binary-i386/Packages
  4e2e9c06cf87be5e83f3ee0045b48889621691c9697695f889689007ac9b0523646b225c2e1a3ee67bc52fabc2bd58d41831057a7c9ad49c5034f70cd340ef79              866 main/binary-i386/Packages.bz2
  bb1a1e607e963162a8f6b0f0d4d51ebc4570dc758b51c2d6677950432bbb6402d9b6a81f669e5631e8ca484eee56151ffa0a336f5119fd6d2d938d15e58f2d84              807 main/binary-i386/Packages.gz
+
+-----BEGIN PGP SIGNATURE-----
+
+wnUEARYKAB0FAmjuPo4WIQRuFn9TzGSTlBzDHEiTAqa1PjFCkQAKCRCTAqa1PjFC
+kZosAP9L+3qGHc7EKL5Idw+scVyxivC1fxHSSnrI0suBu2mtBQEA7gB7RRvIEriM
+I6/xObdP5vVRAP1Z1V14yI8enVlDhQg=
+=tna3
+-----END PGP SIGNATURE-----
