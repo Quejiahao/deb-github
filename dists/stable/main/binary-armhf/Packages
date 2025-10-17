@@ -1,13 +1,13 @@
 Package: code-server
-Version: 4.104.3
+Version: 4.105.0
 Architecture: armhf
 Maintainer: Joe Previte <joe@coder.com>
-Installed-Size: 426316
-Filename: ./pool/main/coder/code-server/v4.104.3/code-server_4.104.3_armhf.deb
-Size: 115748076
-MD5sum: 6e58fb436e98641b8ba75b553200bdf4
-SHA1: 3b0655173ecb95bb791a9b571485a7442cf08c2a
-SHA256: 4bf295ec9b0c4f187281aa5b54242a1a5f09223ca7d3ca7287772d543965fcaf
+Installed-Size: 428438
+Filename: ./pool/main/coder/code-server/v4.105.0/code-server_4.105.0_armhf.deb
+Size: 116255980
+MD5sum: 2bb4b55726ba68dd32f8dca921edbe30
+SHA1: 0a435104293ed276e9781b227f92e4cea1cd83a1
+SHA256: e4b3008b4b530861030c3d24b6840ea6823c11d448212b669056031878374257
 Section: devel
 Priority: optional
 Homepage: https://github.com/coder/code-server
@@ -36,11 +36,11 @@ Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
 Installed-Size: 70861
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.71.1/rclone-v1.71.1-linux-arm-v6.deb
-Size: 24306344
-MD5sum: a03170d45cb6a9df18b5230b8002cb3b
-SHA1: f5e43f8c40025d7e7d4344222431730908f1499a
-SHA256: e8ecbc6906cb5d4fbd6d8997644ec9da151f0e33238a654e2efcdd71893dc623
+Filename: ./pool/main/rclone/rclone/v1.71.1/rclone-v1.71.1-linux-arm-v7.deb
+Size: 24281560
+MD5sum: c6928a50ed3be78303f7ba4d3d44b833
+SHA1: 7751fd58ed3606ecb2434a0f75020551dc85948f
+SHA256: ad5eeba2dc45128ecc317e93c15de2560f32510d0d6f212dab51b6b7a5f80d6d
 Section: default
 Priority: extra
 Homepage: https://rclone.org
@@ -56,11 +56,11 @@ Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
 Installed-Size: 70861
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.71.1/rclone-v1.71.1-linux-arm-v7.deb
-Size: 24281560
-MD5sum: c6928a50ed3be78303f7ba4d3d44b833
-SHA1: 7751fd58ed3606ecb2434a0f75020551dc85948f
-SHA256: ad5eeba2dc45128ecc317e93c15de2560f32510d0d6f212dab51b6b7a5f80d6d
+Filename: ./pool/main/rclone/rclone/v1.71.1/rclone-v1.71.1-linux-arm-v6.deb
+Size: 24306344
+MD5sum: a03170d45cb6a9df18b5230b8002cb3b
+SHA1: f5e43f8c40025d7e7d4344222431730908f1499a
+SHA256: e8ecbc6906cb5d4fbd6d8997644ec9da151f0e33238a654e2efcdd71893dc623
 Section: default
 Priority: extra
 Homepage: https://rclone.org
