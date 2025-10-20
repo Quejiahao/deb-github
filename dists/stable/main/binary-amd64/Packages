@@ -1,13 +1,13 @@
 Package: code-server
-Version: 4.105.0
+Version: 4.105.1
 Architecture: amd64
 Maintainer: Joe Previte <joe@coder.com>
 Installed-Size: 446910
-Filename: ./pool/main/coder/code-server/v4.105.0/code-server_4.105.0_amd64.deb
-Size: 122001604
-MD5sum: d733404cf37db2ba98d91865da9589f2
-SHA1: 587696c1fcf04a2c2a9baba5fd2261bb4806f38d
-SHA256: d926baab6c8c8bb2b18668c853effb7d1e079bbca6586afbd621b1402e35e87c
+Filename: ./pool/main/coder/code-server/v4.105.1/code-server_4.105.1_amd64.deb
+Size: 122001552
+MD5sum: f94271b15dab69b645f367febfda7214
+SHA1: b53df9e477947d0f8e1a39957b2a59ae862d5c4a
+SHA256: 5f0688de1a4a6649e41cde9538fd483d3d9e9feb8425af5d69f5a12c54c3ab4e
 Section: devel
 Priority: optional
 Homepage: https://github.com/coder/code-server
@@ -48,19 +48,19 @@ Description: Syntax highlighter for git
  detection, and restructured diff output for git on the command line.
 
 Package: pandoc
-Version: 3.8.2-1
+Version: 3.8.2.1-1
 Architecture: amd64
 Maintainer: John MacFarlane <jgm@berkeley.edu>
-Installed-Size: 156712
+Installed-Size: 156756
 Depends: libc6 (>= 2.13), libgmp10, zlib1g (>= 1:1.1.4)
 Suggests: texlive-latex-recommended, texlive-xetex,
  texlive-fonts-recommended
 Replaces: pandoc-data
-Filename: ./pool/main/jgm/pandoc/3.8.2/pandoc-3.8.2-1-amd64.deb
-Size: 33690320
-MD5sum: 84c5b1b6aff5950ada5e885ba1bf2c0e
-SHA1: e6b1c3a067d7166a3ae79059dd3302b497f04ba9
-SHA256: bf9cfea4e2b021b3fb5cddb3748d2f5ddca43a8a74f6d64eb3339f93a3939e25
+Filename: ./pool/main/jgm/pandoc/3.8.2.1/pandoc-3.8.2.1-1-amd64.deb
+Size: 33698792
+MD5sum: d31b5228e7c150c3a78c81c649673fc0
+SHA1: d009db5c4079ea0bbbc1b92da7f8bdedd803cebd
+SHA256: 5d4ecbf9c616360a9046e14685389ff2898088847e5fb260eedecd023453995a
 Section: text
 Priority: optional
 Description: general markup converter
@@ -99,16 +99,16 @@ Description: A tiny CLI DNS client library with support for UDP, TCP, DoT, DoH, 
 License: GNU GPL-3.0
 
 Package: rclone
-Version: 1.71.1
+Version: 1.71.2
 Architecture: amd64
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 76321
+Installed-Size: 76336
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.71.1/rclone-v1.71.1-linux-amd64.deb
-Size: 25889198
-MD5sum: 2d7e78d5673ea54314e7cab115aac366
-SHA1: 0843183abf4eac7515178bbec675ed1b5d4f6a7a
-SHA256: 3ba7fec2fdceda6164489eafb2b018777768a30633b74d31687fb6648638d54a
+Filename: ./pool/main/rclone/rclone/v1.71.2/rclone-v1.71.2-linux-amd64.deb
+Size: 25895380
+MD5sum: 4f9b12d6f9e4d9327d535060757dfae2
+SHA1: 7b8c6d7c34236e19e815813690faf21ac29ccb07
+SHA256: 68c961e4aa1bbdf10d3264ec87eb649934f9c75c85c109c72ac43cf6a5fe9c90
 Section: default
 Priority: extra
 Homepage: https://rclone.org
