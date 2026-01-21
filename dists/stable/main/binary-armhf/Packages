@@ -1,0 +1,72 @@
+Package: code-server
+Version: 4.108.1
+Architecture: armhf
+Maintainer: Joe Previte <joe@coder.com>
+Installed-Size: 443273
+Filename: ./pool/main/coder/code-server/v4.108.1/code-server_4.108.1_armhf.deb
+Size: 119930456
+MD5sum: 91c24af3a56e248a3a03d971eca58235
+SHA1: 2e4978a557aec556d6ad5da95f68e753a4dbd2d4
+SHA256: 164a6d45922d1007d938cd43e9886c327f9836f774dde753bab8f0fee33f8817
+Section: devel
+Priority: optional
+Homepage: https://github.com/coder/code-server
+Description: Run VS Code in the browser.
+Vendor: Coder
+
+Package: git-delta
+Version: 0.18.2
+Architecture: armhf
+Maintainer: Dan Davison <dandavison7@gmail.com>
+Conflicts: delta-musl
+Filename: ./pool/main/dandavison/delta/0.18.2/git-delta_0.18.2_armhf.deb
+Size: 2286516
+MD5sum: 32b1aea53ccc4b5a28bef1e5950650f7
+SHA1: 3fc4faffade08c77bf0034d6ade643bb3588c7dd
+SHA256: 12cdf198b75aeb91a8d70e0c8b6a48db920a057654ae9b4161656853adf4b475
+Section: utils
+Priority: optional
+Description: Syntax highlighter for git
+ Delta provides language syntax-highlighting, within-line insertion/deletion
+ detection, and restructured diff output for git on the command line.
+
+Package: rclone
+Version: 1.72.1
+Architecture: armhf
+Maintainer: Nick Craig-Wood <nick@craig-wood.com>
+Installed-Size: 74954
+Provides: rclone
+Filename: ./pool/main/rclone/rclone/v1.72.1/rclone-v1.72.1-linux-arm-v7.deb
+Size: 25989276
+MD5sum: 468833bc6b715017527572fc85a49e6c
+SHA1: 15d6398ed9c76ddeededd1a9c13799fb3dcd0342
+SHA256: 779d596cf2353ef3add6714c7284ec1ce238a428b380dc3d110ee5283a717fce
+Section: default
+Priority: extra
+Homepage: https://rclone.org
+Description: Rclone - "rsync for cloud storage"
+ is a command-line program to sync files and directories to and
+ from most cloud providers. It can also mount, tree, ncdu and lots
+ of other useful things.
+License: MIT
+
+Package: rclone
+Version: 1.72.1
+Architecture: armhf
+Maintainer: Nick Craig-Wood <nick@craig-wood.com>
+Installed-Size: 75018
+Provides: rclone
+Filename: ./pool/main/rclone/rclone/v1.72.1/rclone-v1.72.1-linux-arm-v6.deb
+Size: 26014208
+MD5sum: 06857dc3c4f7e9714a81d84abbbe0442
+SHA1: f589dadcae7927f7f627bf7e5ad85844c12ae534
+SHA256: 7157791ece8b16928e7bb032550e1fcc3545e9a7b3b6d2a3cf082328217e778c
+Section: default
+Priority: extra
+Homepage: https://rclone.org
+Description: Rclone - "rsync for cloud storage"
+ is a command-line program to sync files and directories to and
+ from most cloud providers. It can also mount, tree, ncdu and lots
+ of other useful things.
+License: MIT
+
