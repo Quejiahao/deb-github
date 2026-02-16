@@ -34,26 +34,6 @@ Package: rclone
 Version: 1.73.0
 Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 77657
-Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.73.0/rclone-v1.73.0-linux-arm-v7.deb
-Size: 27150084
-MD5sum: 48ddb8e5166c968cb9efd853ec36784e
-SHA1: fd62270ae3a2a1747f66ae46d07716850eda067f
-SHA256: 9b6ed3151b06002f90a68a04b0c9cfce3a31371117e3eb388d88d90f6e733d36
-Section: default
-Priority: extra
-Homepage: https://rclone.org
-Description: Rclone - "rsync for cloud storage"
- is a command-line program to sync files and directories to and
- from most cloud providers. It can also mount, tree, ncdu and lots
- of other useful things.
-License: MIT
-
-Package: rclone
-Version: 1.73.0
-Architecture: armhf
-Maintainer: Nick Craig-Wood <nick@craig-wood.com>
 Installed-Size: 77721
 Provides: rclone
 Filename: ./pool/main/rclone/rclone/v1.73.0/rclone-v1.73.0-linux-arm-v6.deb
