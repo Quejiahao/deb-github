@@ -31,16 +31,36 @@ Description: Syntax highlighter for git
  detection, and restructured diff output for git on the command line.
 
 Package: rclone
-Version: 1.73.0
+Version: 1.73.1
 Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 77721
+Installed-Size: 77730
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.73.0/rclone-v1.73.0-linux-arm-v6.deb
-Size: 27180746
-MD5sum: 2410c70608c1ae6cd2fde30d0cef0037
-SHA1: 8b6bb8ad4f5c0463d207ed52e3a210cae2adca23
-SHA256: e5c4074e7ebe9f9a477672aa5306506c33afc8bd58f38546dba138c8c90616b5
+Filename: ./pool/main/rclone/rclone/v1.73.1/rclone-v1.73.1-linux-arm-v6.deb
+Size: 27191704
+MD5sum: e28287c9bed24116c8a34786b2b59127
+SHA1: 747006f1b2bc73120f85540dd2be670fbdcce27c
+SHA256: 4fec1575e571849f69bea2bb315776c6c38c015a7b7d4e077581f1d3ddbab811
+Section: default
+Priority: extra
+Homepage: https://rclone.org
+Description: Rclone - "rsync for cloud storage"
+ is a command-line program to sync files and directories to and
+ from most cloud providers. It can also mount, tree, ncdu and lots
+ of other useful things.
+License: MIT
+
+Package: rclone
+Version: 1.73.1
+Architecture: armhf
+Maintainer: Nick Craig-Wood <nick@craig-wood.com>
+Installed-Size: 77730
+Provides: rclone
+Filename: ./pool/main/rclone/rclone/v1.73.1/rclone-v1.73.1-linux-arm-v7.deb
+Size: 27163992
+MD5sum: c5705e1735aafd0f67d19022c3cabe38
+SHA1: 323eff312e6a4a53200fa11ecc4587f814778559
+SHA256: 23d2ba1f9d7613e39d0c89bebbb1f1b376ae7b681ed4e9c6e00d29d1fa9bee02
 Section: default
 Priority: extra
 Homepage: https://rclone.org
