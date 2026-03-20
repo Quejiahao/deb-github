@@ -14,22 +14,6 @@ Homepage: https://github.com/coder/code-server
 Description: Run VS Code in the browser.
 Vendor: Coder
 
-Package: git-delta
-Version: 0.18.2
-Architecture: arm64
-Maintainer: Dan Davison <dandavison7@gmail.com>
-Conflicts: delta-musl
-Filename: ./pool/main/dandavison/delta/0.18.2/git-delta_0.18.2_arm64.deb
-Size: 2292336
-MD5sum: 04a4b9b6dec4c7cde8eb87b037028dcf
-SHA1: 2b5affde07f87356e14a94982cf6821cc57e4b9b
-SHA256: 937781aa7788e1510858743fff6c9a8b4a69fe0a22a7c8a69493e633227939a9
-Section: utils
-Priority: optional
-Description: Syntax highlighter for git
- Delta provides language syntax-highlighting, within-line insertion/deletion
- detection, and restructured diff output for git on the command line.
-
 Package: pandoc
 Version: 3.9.0.2-1
 Architecture: arm64
