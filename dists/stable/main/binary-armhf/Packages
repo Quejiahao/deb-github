@@ -14,6 +14,22 @@ Homepage: https://github.com/coder/code-server
 Description: Run VS Code in the browser.
 Vendor: Coder
 
+Package: git-delta
+Version: 0.19.1
+Architecture: armhf
+Maintainer: Dan Davison <dandavison7@gmail.com>
+Conflicts: delta-musl
+Filename: ./pool/main/dandavison/delta/0.19.1/git-delta_0.19.1_armhf.deb
+Size: 2378624
+MD5sum: 28381cef4073ade0ee35249ee181eade
+SHA1: 577b6c43f0936d6400b89bcfe99399039e05a17c
+SHA256: c008c5fcbd5d81763819774ec89d90c2c9f8df19493fbae60f51eeb74c82c69b
+Section: utils
+Priority: optional
+Description: Syntax highlighter for git
+ Delta provides language syntax-highlighting, within-line insertion/deletion
+ detection, and restructured diff output for git on the command line.
+
 Package: rclone
 Version: 1.73.2
 Architecture: armhf

@@ -1,3 +1,20 @@
+Package: git-delta
+Version: 0.19.1
+Architecture: i386
+Maintainer: Dan Davison <dandavison7@gmail.com>
+Depends: lib32gcc-s1 (>= 4.2), libc6-i386 (>= 2.34)
+Conflicts: delta-musl
+Filename: ./pool/main/dandavison/delta/0.19.1/git-delta_0.19.1_i386.deb
+Size: 2804724
+MD5sum: 372819207c32f52eb333067cb525e940
+SHA1: 15218f8a2fca29984ae61e5c6fa79ece574771cb
+SHA256: 5b92ed69b6870e60fc80c984938f510a77a4ceb59fd428d83b00451fb5515e17
+Section: utils
+Priority: optional
+Description: Syntax highlighter for git
+ Delta provides language syntax-highlighting, within-line insertion/deletion
+ detection, and restructured diff output for git on the command line.
+
 Package: rclone
 Version: 1.73.2
 Architecture: i386
