@@ -82,16 +82,16 @@ Description: A tiny CLI DNS client library with support for UDP, TCP, DoT, DoH, 
 License: GNU GPL-3.0
 
 Package: rclone
-Version: 1.73.2
+Version: 1.73.3
 Architecture: arm64
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 78059
+Installed-Size: 78065
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.73.2/rclone-v1.73.2-linux-arm64.deb
-Size: 26509354
-MD5sum: 3aba31b28f5e17ae768cd9371adfee71
-SHA1: edbae0c572d5b0dbe3cc6d00eb7d94511d4d2ab1
-SHA256: 6ab9bb0ac4e34539e1e47e0ad039268964d4e8b3fd967747a7fddf595d367f18
+Filename: ./pool/main/rclone/rclone/v1.73.3/rclone-v1.73.3-linux-arm64.deb
+Size: 26419636
+MD5sum: 1ee2b951bba8b551d5f7b79759b06ce5
+SHA1: 129eec33057ec4e00847925ade07b35ef99c610b
+SHA256: ac64bf987226f029ff533838ddd5ed1e1f695dfafeb82e51ffe75c44e2234e4a
 Section: default
 Priority: extra
 Homepage: https://rclone.org
@@ -99,5 +99,4 @@ Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
  of other useful things.
-License: MIT
 

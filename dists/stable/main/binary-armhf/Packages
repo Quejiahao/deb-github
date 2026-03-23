@@ -31,16 +31,16 @@ Description: Syntax highlighter for git
  detection, and restructured diff output for git on the command line.
 
 Package: rclone
-Version: 1.73.2
+Version: 1.73.3
 Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 77867
+Installed-Size: 77809
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.73.2/rclone-v1.73.2-linux-arm-v6.deb
-Size: 27221468
-MD5sum: 6f3f3b9b959e1f77aaa4dd29b90a44e7
-SHA1: 47ebe23ec29be0999b7a9b47ad6b79508d27842a
-SHA256: d9f48ee60353550ecef3063ac7a2b9977331155009c364402353d3d3c9718c77
+Filename: ./pool/main/rclone/rclone/v1.73.3/rclone-v1.73.3-linux-arm-v7.deb
+Size: 27140458
+MD5sum: ef04f05ca7e458019cafb22467102524
+SHA1: 57d56e45379b524be73497cb49110c815c2adc68
+SHA256: d432a2b14af8db11e3f62f213036ef5000159ec357524d3a7a43dfe51dabfbdf
 Section: default
 Priority: extra
 Homepage: https://rclone.org
@@ -48,19 +48,18 @@ Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
  of other useful things.
-License: MIT
 
 Package: rclone
-Version: 1.73.2
+Version: 1.73.3
 Architecture: armhf
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 77803
+Installed-Size: 77873
 Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.73.2/rclone-v1.73.2-linux-arm-v7.deb
-Size: 27197066
-MD5sum: 86a903969029681e7f70a1ade7040037
-SHA1: 2ba2fbe01d63b52c23e722191bc9b637dd8898e5
-SHA256: 115365fc52525f92f634cfb0352280e14d1865b8c6ced59c54118a44b470b50d
+Filename: ./pool/main/rclone/rclone/v1.73.3/rclone-v1.73.3-linux-arm-v6.deb
+Size: 27168596
+MD5sum: 017b4d5b826a90d9d3ec1cba1e0a02e1
+SHA1: f8b23306d9c55c7a17dd9761aca40dc3a264e43b
+SHA256: 1d5b283ad6d192de94561dba4bada63ec3ce1466afb0d7b3560b4e8c114ad0cb
 Section: default
 Priority: extra
 Homepage: https://rclone.org
@@ -68,5 +67,4 @@ Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
  of other useful things.
-License: MIT
 
