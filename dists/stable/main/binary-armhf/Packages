@@ -14,57 +14,21 @@ Homepage: https://github.com/coder/code-server
 Description: Run VS Code in the browser.
 Vendor: Coder
 
-Package: git-delta
-Version: 0.19.1
+Package: mihomo
+Version: 1.19.21
 Architecture: armhf
-Maintainer: Dan Davison <dandavison7@gmail.com>
-Conflicts: delta-musl
-Filename: ./pool/main/dandavison/delta/0.19.1/git-delta_0.19.1_armhf.deb
-Size: 2378624
-MD5sum: 28381cef4073ade0ee35249ee181eade
-SHA1: 577b6c43f0936d6400b89bcfe99399039e05a17c
-SHA256: c008c5fcbd5d81763819774ec89d90c2c9f8df19493fbae60f51eeb74c82c69b
-Section: utils
+Maintainer: MetaCubeX <none@example.com>
+Installed-Size: 31907
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.21/mihomo-linux-armv7-v1.19.21.deb
+Size: 12331936
+MD5sum: 6f286bbafc448650b6da869e987c664d
+SHA1: ae84098e745b44a2525cd2d38b3c88e6a57f520e
+SHA256: 16856a7545830e57de58b357776caee0b121a12e711269eb4dc562b2e2ec1a79
+Section: net
 Priority: optional
-Description: Syntax highlighter for git
- Delta provides language syntax-highlighting, within-line insertion/deletion
- detection, and restructured diff output for git on the command line.
-
-Package: rclone
-Version: 1.73.3
-Architecture: armhf
-Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 77873
-Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.73.3/rclone-v1.73.3-linux-arm-v6.deb
-Size: 27168596
-MD5sum: 017b4d5b826a90d9d3ec1cba1e0a02e1
-SHA1: f8b23306d9c55c7a17dd9761aca40dc3a264e43b
-SHA256: 1d5b283ad6d192de94561dba4bada63ec3ce1466afb0d7b3560b4e8c114ad0cb
-Section: default
-Priority: extra
-Homepage: https://rclone.org
-Description: Rclone - "rsync for cloud storage"
- is a command-line program to sync files and directories to and
- from most cloud providers. It can also mount, tree, ncdu and lots
- of other useful things.
-
-Package: rclone
-Version: 1.73.3
-Architecture: armhf
-Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 77809
-Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.73.3/rclone-v1.73.3-linux-arm-v7.deb
-Size: 27140458
-MD5sum: ef04f05ca7e458019cafb22467102524
-SHA1: 57d56e45379b524be73497cb49110c815c2adc68
-SHA256: d432a2b14af8db11e3f62f213036ef5000159ec357524d3a7a43dfe51dabfbdf
-Section: default
-Priority: extra
-Homepage: https://rclone.org
-Description: Rclone - "rsync for cloud storage"
- is a command-line program to sync files and directories to and
- from most cloud providers. It can also mount, tree, ncdu and lots
- of other useful things.
+Homepage: https://wiki.metacubex.one/
+Description: The universal proxy platform.
+Bug: https://github.com/MetaCubeX/mihomo/issues
+License: GPL-3.0-or-later
+Vendor: none
 

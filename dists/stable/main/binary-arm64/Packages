@@ -14,89 +14,21 @@ Homepage: https://github.com/coder/code-server
 Description: Run VS Code in the browser.
 Vendor: Coder
 
-Package: git-delta
-Version: 0.19.1
+Package: mihomo
+Version: 1.19.21
 Architecture: arm64
-Maintainer: Dan Davison <dandavison7@gmail.com>
-Conflicts: delta-musl
-Filename: ./pool/main/dandavison/delta/0.19.1/git-delta_0.19.1_arm64.deb
-Size: 2396900
-MD5sum: 09ceb055c1bc476020d7de7f6d6eec95
-SHA1: 3ef170d87c2d50f99f3c5699fbf5b10deff50268
-SHA256: 1bd252110eafa1065c0798f9e68de0682127408e4b53db79733efa72c53b68bf
-Section: utils
+Maintainer: MetaCubeX <none@example.com>
+Installed-Size: 32227
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.21/mihomo-linux-arm64-v1.19.21.deb
+Size: 11918126
+MD5sum: a24a434ee75717b3530d71dbce67624c
+SHA1: 70f60791b3bca0ee63c52373c8e7d52d53503a95
+SHA256: cd5da4e0d4af745eb5dcd2d26c4334f3d2cc64e59643efdb23133b6f1351cac0
+Section: net
 Priority: optional
-Description: Syntax highlighter for git
- Delta provides language syntax-highlighting, within-line insertion/deletion
- detection, and restructured diff output for git on the command line.
-
-Package: pandoc
-Version: 3.9.0.2-1
-Architecture: arm64
-Maintainer: John MacFarlane <jgm@berkeley.edu>
-Installed-Size: 169220
-Depends: libc6 (>= 2.13), libgmp10, zlib1g (>= 1:1.1.4)
-Suggests: texlive-latex-recommended, texlive-xetex,
- texlive-fonts-recommended
-Replaces: pandoc-data
-Filename: ./pool/main/jgm/pandoc/3.9.0.2/pandoc-3.9.0.2-1-arm64.deb
-Size: 36418982
-MD5sum: e311a99c7a87c77af63fb3e9685c502e
-SHA1: c2aa2f0f88a98a9be7425240ff184fbcb899ef46
-SHA256: 2e77b311be7d1c3b40b5475c6cd5bd44ba02d7d9683e3eecb3324baebf16e4d8
-Section: text
-Priority: optional
-Description: general markup converter
-  Pandoc is a Haskell library for converting from one markup format
-  to another, and a command-line tool that uses this library. The
-  formats it can handle include light markup formats (many variants
-  of Markdown, reStructuredText, AsciiDoc, Org-mode, Muse, Textile,
-  txt2tags), HTML formats (HTML 4 and 5), ebook formats (EPUB v2
-  and v3, FB2), Documentation formats (GNU TexInfo, Haddock),
-  Roff formats (man, ms), TeX formats (LaTeX, ConTeXt), XML
-  formats (DocBook 4 and 5, JATS, TEI Simple, OpenDocument),
-  outline formats (OPML), bibliography formats (BibTeX, BibLaTeX,
-  CSL JSON, CSL YAML, RIS), word processor formats (Docx, RTF,
-  ODT), interactive notebook formats (Jupyter notebook
-  ipynb), page layout formats (InDesign ICML), wiki markup
-  formats (MediaWiki, DokuWiki, TikiWiki, TWiki, Vimwiki,
-  XWiki, ZimWiki, Jira wiki, Creole), slide show formats
-  (LaTeX Beamer, PowerPoint, Slidy, reveal.js, Slideous, S5,
-  DZSlides), data formats (CSV and TSV tables), and PDF (via
-  external programs such as pdflatex or wkhtmltopdf).
-
-Package: q
-Version: 0.19.12
-Architecture: arm64
-Maintainer: Nate Sales <nate@natesales.net>
-Installed-Size: 9984
-Filename: ./pool/main/natesales/q/v0.19.12/q_0.19.12_linux_arm64.deb
-Size: 3942262
-MD5sum: 606eead51d5bac7716f21d6e499ca32c
-SHA1: 3c7175d321b3ea09f5459f947c9cdf34ec0e563c
-SHA256: 34ada9cbe9c6ba88248fe37918a15a46f2996b60e16d62777f5acad7c3613e84
-Section: utils
-Priority: extra
-Homepage: https://natesales.net/
-Description: A tiny CLI DNS client library with support for UDP, TCP, DoT, DoH, and DoQ.
-License: GNU GPL-3.0
-
-Package: rclone
-Version: 1.73.3
-Architecture: arm64
-Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 78065
-Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.73.3/rclone-v1.73.3-linux-arm64.deb
-Size: 26419636
-MD5sum: 1ee2b951bba8b551d5f7b79759b06ce5
-SHA1: 129eec33057ec4e00847925ade07b35ef99c610b
-SHA256: ac64bf987226f029ff533838ddd5ed1e1f695dfafeb82e51ffe75c44e2234e4a
-Section: default
-Priority: extra
-Homepage: https://rclone.org
-Description: Rclone - "rsync for cloud storage"
- is a command-line program to sync files and directories to and
- from most cloud providers. It can also mount, tree, ncdu and lots
- of other useful things.
+Homepage: https://wiki.metacubex.one/
+Description: The universal proxy platform.
+Bug: https://github.com/MetaCubeX/mihomo/issues
+License: GPL-3.0-or-later
+Vendor: none
 

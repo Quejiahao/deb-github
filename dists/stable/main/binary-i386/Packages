@@ -1,36 +1,18 @@
-Package: git-delta
-Version: 0.19.1
+Package: mihomo
+Version: 1.19.21
 Architecture: i386
-Maintainer: Dan Davison <dandavison7@gmail.com>
-Depends: lib32gcc-s1 (>= 4.2), libc6-i386 (>= 2.34)
-Conflicts: delta-musl
-Filename: ./pool/main/dandavison/delta/0.19.1/git-delta_0.19.1_i386.deb
-Size: 2804724
-MD5sum: 372819207c32f52eb333067cb525e940
-SHA1: 15218f8a2fca29984ae61e5c6fa79ece574771cb
-SHA256: 5b92ed69b6870e60fc80c984938f510a77a4ceb59fd428d83b00451fb5515e17
-Section: utils
+Maintainer: MetaCubeX <none@example.com>
+Installed-Size: 32299
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.21/mihomo-linux-386-v1.19.21.deb
+Size: 12512720
+MD5sum: 1e9bf975094a83cabf2e38d1db517198
+SHA1: a0c2570a2e109d0e793a0a367efd36c8abac324f
+SHA256: a4374c26d7af5f40265ade52e592d306b88defcb8ee12a4138749b82623a5ce2
+Section: net
 Priority: optional
-Description: Syntax highlighter for git
- Delta provides language syntax-highlighting, within-line insertion/deletion
- detection, and restructured diff output for git on the command line.
-
-Package: rclone
-Version: 1.73.3
-Architecture: i386
-Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 78841
-Provides: rclone
-Filename: ./pool/main/rclone/rclone/v1.73.3/rclone-v1.73.3-linux-386.deb
-Size: 27258120
-MD5sum: 04b9139bf75e8b08a0b8a3014e2a99f9
-SHA1: 3b608f9e7d04403a3b8a8b9b96b8e790af3f1dfa
-SHA256: 244163cfa99fb5a0cbf627a1e09d02a68953e461c43507155a72fbe4ec1a93f4
-Section: default
-Priority: extra
-Homepage: https://rclone.org
-Description: Rclone - "rsync for cloud storage"
- is a command-line program to sync files and directories to and
- from most cloud providers. It can also mount, tree, ncdu and lots
- of other useful things.
+Homepage: https://wiki.metacubex.one/
+Description: The universal proxy platform.
+Bug: https://github.com/MetaCubeX/mihomo/issues
+License: GPL-3.0-or-later
+Vendor: none
 
