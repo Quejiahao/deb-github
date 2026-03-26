@@ -4,10 +4,10 @@ Build a Debian APT repository from packages on GitHub.
 
 ## Usage
 
-Add one line to `/etc/apt/sources.list.d/ibug.list`:
+Add one line to `/etc/apt/sources.list.d/kumarino.list`:
 
 ```shell
-deb [trusted=yes] https://deb-github.ibugone.com/ stable main
+deb [trusted=yes] https://deb-github.kumarino.com/ stable main
 ```
 
 Then run the usual `apt update` commands.
