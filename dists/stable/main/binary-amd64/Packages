@@ -18,12 +18,12 @@ Package: mihomo
 Version: 1.19.21
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 35463
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.21/mihomo-linux-amd64-v3-v1.19.21.deb
-Size: 13278794
-MD5sum: 26e3a88026071adb65304311e506c6e9
-SHA1: 8d45cd0aa98f932b908147818e8d0f58d529c2e3
-SHA256: 023689b8ba7b914c2abc2c8d874ff97786b630c27716e788998429a281fb32d0
+Installed-Size: 35503
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.21/mihomo-linux-amd64-v1-v1.19.21.deb
+Size: 13297854
+MD5sum: f99c73ee2f109c984e1d86c48ca71ba0
+SHA1: 3c595ff9a05d7fb216cc5487b7f616d2a205570d
+SHA256: 1c8c2e17c51ec1edc63b4c648ce8878824bf99698cc09323908ecea42adcec29
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -72,12 +72,12 @@ Package: mihomo
 Version: 1.19.21
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 35503
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.21/mihomo-linux-amd64-v1-v1.19.21.deb
-Size: 13297854
-MD5sum: f99c73ee2f109c984e1d86c48ca71ba0
-SHA1: 3c595ff9a05d7fb216cc5487b7f616d2a205570d
-SHA256: 1c8c2e17c51ec1edc63b4c648ce8878824bf99698cc09323908ecea42adcec29
+Installed-Size: 35463
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.21/mihomo-linux-amd64-v3-v1.19.21.deb
+Size: 13278794
+MD5sum: 26e3a88026071adb65304311e506c6e9
+SHA1: 8d45cd0aa98f932b908147818e8d0f58d529c2e3
+SHA256: 023689b8ba7b914c2abc2c8d874ff97786b630c27716e788998429a281fb32d0
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
