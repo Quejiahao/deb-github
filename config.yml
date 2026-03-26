@@ -9,7 +9,4 @@ architectures:
   - i386
 repositories:
   - coder/code-server
-  - dandavison/delta
-  - jgm/pandoc
-  - natesales/q
-  - rclone/rclone
+  - MetaCubeX/mihomo
