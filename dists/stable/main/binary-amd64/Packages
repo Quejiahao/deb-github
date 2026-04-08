@@ -1,13 +1,13 @@
 Package: code-server
-Version: 4.114.1
+Version: 4.115.0
 Architecture: amd64
 Maintainer: Joe Previte <joe@coder.com>
-Installed-Size: 571326
-Filename: ./pool/main/coder/code-server/v4.114.1/code-server_4.114.1_amd64.deb
-Size: 151272402
-MD5sum: 49edffcbd4d1b95341c3a65c8fca0b94
-SHA1: ba1dc814f1836ad1c40b3baba41641e4560b1b7e
-SHA256: b3430ea87ac89b3199a1fad61e334922c60ff1cd0b87c1d5dba2ebe07fc38ae0
+Installed-Size: 576359
+Filename: ./pool/main/coder/code-server/v4.115.0/code-server_4.115.0_amd64.deb
+Size: 152983490
+MD5sum: 672e1b0c4dc0015d86b4fae07be0a0da
+SHA1: 0549563bbd626c09b88048ad072f31cedd700c4e
+SHA256: 3bd52af7b5aa45359946d7509fd701279b322fc949995058987597a8c0ada90d
 Section: devel
 Priority: optional
 Homepage: https://github.com/coder/code-server
@@ -15,15 +15,15 @@ Description: Run VS Code in the browser.
 Vendor: Coder
 
 Package: mihomo
-Version: 1.19.22
+Version: 1.19.23
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 35623
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.22/mihomo-linux-amd64-v3-v1.19.22.deb
-Size: 13341898
-MD5sum: b7496092a4a90758b1064b89f19eace6
-SHA1: a757fe18235caa5f9b2e3586a3f88ea18346345b
-SHA256: 70017fb9a0dff2dcdec102ffc0d394a2409f7c5cb48bf74c3079a13ac0768186
+Installed-Size: 35719
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.23/mihomo-linux-amd64-v2-v1.19.23.deb
+Size: 13387666
+MD5sum: 4d199c6185c8e0477fd3cbcea0e2062e
+SHA1: fba06ea95a7719a8feb4bbd5ed27e2e024ece529
+SHA256: 6b9055b931eb274e2c5cc81a2157546cc29b9c37d4e05168a77a867a6bb1827b
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -33,15 +33,15 @@ License: GPL-3.0-or-later
 Vendor: none
 
 Package: mihomo
-Version: 1.19.22
+Version: 1.19.23
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 35623
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.22/mihomo-linux-amd64-v1.19.22.deb
-Size: 13341884
-MD5sum: 8967d0771ff3017e830825b7a4640c73
-SHA1: f77d0039a66da0bf92f835c1834ad46d2ad9ccf1
-SHA256: 717c341035937b672a64f6c68b4595cc2031e1de03bdfd1c537c7a34ef854188
+Installed-Size: 35695
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.23/mihomo-linux-amd64-v1.19.23.deb
+Size: 13372050
+MD5sum: aded68815f1a1551318a867cb9bee534
+SHA1: 9988b578bdb1ed25730c2949bde9ab7049343d4e
+SHA256: 47b91c2ee02e27aec4ef4219ff96a710919881c8e36beb815ad934f05042aa30
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -51,15 +51,15 @@ License: GPL-3.0-or-later
 Vendor: none
 
 Package: mihomo
-Version: 1.19.22
+Version: 1.19.23
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 35659
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.22/mihomo-linux-amd64-v1-v1.19.22.deb
-Size: 13362720
-MD5sum: acad895c5b690f86b634b55882ce4ebf
-SHA1: cb4cb07f3af1f9cbe4949430713917a74daf55c5
-SHA256: 3b0200f68af805005f846ee7b257356513eeaef641f3832218f493519f4ee673
+Installed-Size: 35695
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.23/mihomo-linux-amd64-v3-v1.19.23.deb
+Size: 13372008
+MD5sum: 67ded7e067c18096fcc46143fd5c3325
+SHA1: b832aea41b9d6de368d4a16f20a9151d66140baf
+SHA256: ec3e06fb3a324ddeac0bdec744d775e2f3236964b270275e3d8b3eb9731ce641
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -69,15 +69,15 @@ License: GPL-3.0-or-later
 Vendor: none
 
 Package: mihomo
-Version: 1.19.22
+Version: 1.19.23
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 35643
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.22/mihomo-linux-amd64-v2-v1.19.22.deb
-Size: 13357018
-MD5sum: da2edf19c61ca676e2b135560478909c
-SHA1: 22474996adb12bbc90e8b84b1989ddc6aa02f737
-SHA256: 7c729cfa4171f7fc7dae9cec8712ce3be38c8a80573b2fa24243c4da6c863ac5
+Installed-Size: 35735
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.23/mihomo-linux-amd64-v1-v1.19.23.deb
+Size: 13393748
+MD5sum: 8b2f70303e5bab0fee600d96891b5afb
+SHA1: 7963186243c4fda8c8dc0defc5be6a9bad713a9a
+SHA256: e7e1b37d8b125a251f93159ce753fd113dd5ac219ff11817eda0cea475487049
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/

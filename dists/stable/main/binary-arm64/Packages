@@ -1,13 +1,13 @@
 Package: code-server
-Version: 4.114.1
+Version: 4.115.0
 Architecture: arm64
 Maintainer: Joe Previte <joe@coder.com>
-Installed-Size: 561619
-Filename: ./pool/main/coder/code-server/v4.114.1/code-server_4.114.1_arm64.deb
-Size: 149087668
-MD5sum: bf89dae038796bbeabccf2bd330210d2
-SHA1: b64ea105a0831a3f02005b119f86032f1eb3c524
-SHA256: 14c07947b946b87bb5e5c8151c19518c1df318eabd72aec08ff966b3e5b2e22d
+Installed-Size: 566575
+Filename: ./pool/main/coder/code-server/v4.115.0/code-server_4.115.0_arm64.deb
+Size: 150783362
+MD5sum: a354224b76c1026eea3d471bc3e301c1
+SHA1: 6bef0bdae805fa1684b232f327cb7b85bca02b21
+SHA256: 7ff2c7d4fbaf50600272669691c11744dd06301f0d35a3a00df49dc224fe5842
 Section: devel
 Priority: optional
 Homepage: https://github.com/coder/code-server
@@ -15,15 +15,15 @@ Description: Run VS Code in the browser.
 Vendor: Coder
 
 Package: mihomo
-Version: 1.19.22
+Version: 1.19.23
 Architecture: arm64
 Maintainer: MetaCubeX <none@example.com>
 Installed-Size: 32355
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.22/mihomo-linux-arm64-v1.19.22.deb
-Size: 11975896
-MD5sum: 2071ebcbcc6f1ebd7f1e53385bfe7ffa
-SHA1: 5c78cc1973f94e6749a16904bcf39627a0390877
-SHA256: 69ce33bea7f3dc4f7101baed3e6bdfe602341e4b245da9d1fe5d2535983f5535
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.23/mihomo-linux-arm64-v1.19.23.deb
+Size: 12001986
+MD5sum: db3bb679f6b035711c9af45255f8509b
+SHA1: a25761920d562c3f85775e451423f50bb83c1501
+SHA256: 53c8ec52d412ec4509663816fbed30bcee5c6f888f94f6755267d712579a452f
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
