@@ -15,15 +15,15 @@ Description: Run VS Code in the browser.
 Vendor: Coder
 
 Package: mihomo
-Version: 1.19.23
+Version: 1.19.24
 Architecture: armhf
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 32163
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.23/mihomo-linux-armv7-v1.19.23.deb
-Size: 12414548
-MD5sum: 5a0b4313120c7cf33998bb54c6c5735c
-SHA1: 8877945892f442442a55874d4384da6e97e28657
-SHA256: 5c73d82cf6d64b686bc336d960bbf3e4afda144e787558d2a98334dbee3992d9
+Installed-Size: 32291
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.24/mihomo-linux-armv7-v1.19.24.deb
+Size: 12482356
+MD5sum: 7ae5d4982d81373db1af1e1e5ba51260
+SHA1: b21bd5f1b739143326aa87a0817d501bda69259b
+SHA256: 2d1ff354d7195e0b461bf4306bddcf9d15e485bfe437103bde9a2f922394b887
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
