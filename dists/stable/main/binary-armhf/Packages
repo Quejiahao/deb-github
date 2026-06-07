@@ -1,13 +1,13 @@
 Package: mihomo
-Version: 1.19.26
+Version: 1.19.27
 Architecture: armhf
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 42083
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.26/mihomo-linux-armv7-v1.19.26.deb
-Size: 16214218
-MD5sum: 7c0ff089b48c904e4afff22ff52e13ec
-SHA1: 8f4f8948e3d2e8360adc5c08491f553b73e999b3
-SHA256: 306ce791da72128b1bb231383d6ebbe951382a36d0088210ec22615e3572e7f6
+Installed-Size: 42723
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.27/mihomo-linux-armv7-v1.19.27.deb
+Size: 16491778
+MD5sum: be7b6207a83babac901a9871af1ef819
+SHA1: ceab811665a2978b2e97ded09b31e29aa63c9472
+SHA256: ca8e9d57648bd1635b767053262b4b33acd000817529a53eedfd80cdd42d668b
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
