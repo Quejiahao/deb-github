@@ -15,15 +15,15 @@ Description: Run VS Code in the browser.
 Vendor: Coder
 
 Package: mihomo
-Version: 1.19.27
+Version: 1.19.28
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 47047
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.27/mihomo-linux-amd64-v1.19.27.deb
-Size: 17740130
-MD5sum: 637ac3d7ce47018332073ac24a64a15c
-SHA1: e73fe3a0e69c6542b0117791cb05c617303e1d4a
-SHA256: a88ca055b4bfa516cff1826620ca49bf1c898a7e1d710687cae8cf05fe8580c4
+Installed-Size: 47731
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.28/mihomo-linux-amd64-v3-v1.19.28.deb
+Size: 17992832
+MD5sum: c9bb0b623771ce87053edaa7174313df
+SHA1: 71936f898aa518f5b1eba62b526061820e3e7e31
+SHA256: 8b3341e8d3341a6d96d7c8289c05f06ef9e3331ecb82f6ecc515932409730a90
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -33,15 +33,15 @@ License: GPL-3.0-or-later
 Vendor: none
 
 Package: mihomo
-Version: 1.19.27
+Version: 1.19.28
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 47071
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.27/mihomo-linux-amd64-v2-v1.19.27.deb
-Size: 17758542
-MD5sum: 9cad9aefe11f3d250b1abeb5f5aa8317
-SHA1: 9151414b67c913246c1e86f5278bb74ac0641004
-SHA256: 0f3414b5c9202001f8beb5459ee2bacf4b3d87c50e72d153c57127e2f46270e9
+Installed-Size: 47755
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.28/mihomo-linux-amd64-v2-v1.19.28.deb
+Size: 18011276
+MD5sum: 73e2dc4871c5905c2e0124cb385f0e89
+SHA1: e75c50aee13c7b81fd341cd8a1777177230e4b17
+SHA256: 85d3edf3ace53f879c0841d6c152c2824e24f8405c2a967acaf0f5c7216d2dbc
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -51,15 +51,15 @@ License: GPL-3.0-or-later
 Vendor: none
 
 Package: mihomo
-Version: 1.19.27
+Version: 1.19.28
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 47047
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.27/mihomo-linux-amd64-v3-v1.19.27.deb
-Size: 17740184
-MD5sum: 490098c1f6452aafe47e5fac9df1120e
-SHA1: b00c4b16a1b53e8f9abc282c518483f8873fb290
-SHA256: 4630bee55dea3399b0a51ee364d13aca1b5ff7cf17682689f5d908da3f915fa0
+Installed-Size: 47731
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.28/mihomo-linux-amd64-v1.19.28.deb
+Size: 17993082
+MD5sum: a75e0a32ba3300da2e3a5c30516da327
+SHA1: 7017a1c431648766965d80b027cd5142cfac3e1c
+SHA256: d25ffacfffdd8104bf7f3b42239ae45887585e86e1fa73d626da966ff317bd6c
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -69,15 +69,15 @@ License: GPL-3.0-or-later
 Vendor: none
 
 Package: mihomo
-Version: 1.19.27
+Version: 1.19.28
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 47095
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.27/mihomo-linux-amd64-v1-v1.19.27.deb
-Size: 17764010
-MD5sum: fa39813576ead62a9ef7355d61a29e38
-SHA1: 3b8a3e32e0f15b71038d33b58bfd2976d2314ca4
-SHA256: 9148d624899b4d2029bd503a2bd5a6d0b701d4196287029dfe305224fd9531bd
+Installed-Size: 47779
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.28/mihomo-linux-amd64-v1-v1.19.28.deb
+Size: 18023736
+MD5sum: 32b8c5559a75954f19c27833711e8aa7
+SHA1: c214095b3cd58767c10744be336bff4c8e912bc0
+SHA256: 4d69c9ab4e1c2533ce1fc3c5f9cadf3a17efed62a2218a579db779d91d127961
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
