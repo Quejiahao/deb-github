@@ -18,24 +18,6 @@ Package: mihomo
 Version: 1.19.28
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 47731
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.28/mihomo-linux-amd64-v3-v1.19.28.deb
-Size: 17992832
-MD5sum: c9bb0b623771ce87053edaa7174313df
-SHA1: 71936f898aa518f5b1eba62b526061820e3e7e31
-SHA256: 8b3341e8d3341a6d96d7c8289c05f06ef9e3331ecb82f6ecc515932409730a90
-Section: net
-Priority: optional
-Homepage: https://wiki.metacubex.one/
-Description: The universal proxy platform.
-Bug: https://github.com/MetaCubeX/mihomo/issues
-License: GPL-3.0-or-later
-Vendor: none
-
-Package: mihomo
-Version: 1.19.28
-Architecture: amd64
-Maintainer: MetaCubeX <none@example.com>
 Installed-Size: 47755
 Filename: ./pool/main/MetaCubeX/mihomo/v1.19.28/mihomo-linux-amd64-v2-v1.19.28.deb
 Size: 18011276
@@ -55,11 +37,11 @@ Version: 1.19.28
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
 Installed-Size: 47731
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.28/mihomo-linux-amd64-v1.19.28.deb
-Size: 17993082
-MD5sum: a75e0a32ba3300da2e3a5c30516da327
-SHA1: 7017a1c431648766965d80b027cd5142cfac3e1c
-SHA256: d25ffacfffdd8104bf7f3b42239ae45887585e86e1fa73d626da966ff317bd6c
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.28/mihomo-linux-amd64-v3-v1.19.28.deb
+Size: 17992832
+MD5sum: c9bb0b623771ce87053edaa7174313df
+SHA1: 71936f898aa518f5b1eba62b526061820e3e7e31
+SHA256: 8b3341e8d3341a6d96d7c8289c05f06ef9e3331ecb82f6ecc515932409730a90
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -78,6 +60,24 @@ Size: 18023736
 MD5sum: 32b8c5559a75954f19c27833711e8aa7
 SHA1: c214095b3cd58767c10744be336bff4c8e912bc0
 SHA256: 4d69c9ab4e1c2533ce1fc3c5f9cadf3a17efed62a2218a579db779d91d127961
+Section: net
+Priority: optional
+Homepage: https://wiki.metacubex.one/
+Description: The universal proxy platform.
+Bug: https://github.com/MetaCubeX/mihomo/issues
+License: GPL-3.0-or-later
+Vendor: none
+
+Package: mihomo
+Version: 1.19.28
+Architecture: amd64
+Maintainer: MetaCubeX <none@example.com>
+Installed-Size: 47731
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.28/mihomo-linux-amd64-v1.19.28.deb
+Size: 17993082
+MD5sum: a75e0a32ba3300da2e3a5c30516da327
+SHA1: 7017a1c431648766965d80b027cd5142cfac3e1c
+SHA256: d25ffacfffdd8104bf7f3b42239ae45887585e86e1fa73d626da966ff317bd6c
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
