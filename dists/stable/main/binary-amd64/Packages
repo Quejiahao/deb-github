@@ -18,12 +18,12 @@ Package: mihomo
 Version: 1.19.30
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 49779
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.30/mihomo-linux-amd64-v1.19.30.deb
-Size: 18744604
-MD5sum: 3d46849ab70ce4d4246fd8c67cf60830
-SHA1: 3a9ea6b36951a114b5298ffe08e49fc1303ffc6d
-SHA256: 3c7a1936b1ece356845598d809d3929b2a5f46c3dc4deb98ee375db1cfcc2f21
+Installed-Size: 49839
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.30/mihomo-linux-amd64-v1-v1.19.30.deb
+Size: 18779520
+MD5sum: fc90f89a8f289d1a7b054fd546d25ff8
+SHA1: aada134da0f0c174984f3847ef830ef18a7efd84
+SHA256: 5ffa2e31f3b54a12a0804162af413fdb1305fd0d0d1286e752096799f372a664
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -36,12 +36,12 @@ Package: mihomo
 Version: 1.19.30
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 49839
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.30/mihomo-linux-amd64-v1-v1.19.30.deb
-Size: 18779520
-MD5sum: fc90f89a8f289d1a7b054fd546d25ff8
-SHA1: aada134da0f0c174984f3847ef830ef18a7efd84
-SHA256: 5ffa2e31f3b54a12a0804162af413fdb1305fd0d0d1286e752096799f372a664
+Installed-Size: 49807
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.30/mihomo-linux-amd64-v2-v1.19.30.deb
+Size: 18766112
+MD5sum: 0f987863d7f5df40b03d60bfc2af0de8
+SHA1: 93128af8ae9f39fec3870769238baed84e04d908
+SHA256: 4d1ee942f5b5fe9ea587480127bfdbbf86ebc4e5a286d7e4425ceaee30057964
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
@@ -72,12 +72,12 @@ Package: mihomo
 Version: 1.19.30
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 49807
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.30/mihomo-linux-amd64-v2-v1.19.30.deb
-Size: 18766112
-MD5sum: 0f987863d7f5df40b03d60bfc2af0de8
-SHA1: 93128af8ae9f39fec3870769238baed84e04d908
-SHA256: 4d1ee942f5b5fe9ea587480127bfdbbf86ebc4e5a286d7e4425ceaee30057964
+Installed-Size: 49779
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.30/mihomo-linux-amd64-v1.19.30.deb
+Size: 18744604
+MD5sum: 3d46849ab70ce4d4246fd8c67cf60830
+SHA1: 3a9ea6b36951a114b5298ffe08e49fc1303ffc6d
+SHA256: 3c7a1936b1ece356845598d809d3929b2a5f46c3dc4deb98ee375db1cfcc2f21
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
