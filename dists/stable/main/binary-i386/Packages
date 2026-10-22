@@ -1,13 +1,13 @@
 Package: mihomo
-Version: 1.19.32
+Version: 1.19.33
 Architecture: i386
 Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 55587
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.32/mihomo-linux-386-v1.19.32.deb
-Size: 21283760
-MD5sum: 09a72d92aca49942b3ce9e113f8d4789
-SHA1: 2d7e1b76101c317d9dcc2c16a3f198ac472f0401
-SHA256: ea3ad84d6fa8b5dd6531195a8f245876d0efbad0dfe402131e6f8e10a744aac4
+Installed-Size: 55611
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.33/mihomo-linux-386-v1.19.33.deb
+Size: 21301226
+MD5sum: c2f25e5e9d0a3f7f10af19e0bd58292d
+SHA1: 69aea9869ae0b7747a114e8c916487f0e0cb0130
+SHA256: 33020337350756b4aac2ac15667b800eb04ca03974cec55d7d02e5d884665a9e
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
