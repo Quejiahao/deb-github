@@ -36,6 +36,24 @@ Package: mihomo
 Version: 1.19.33
 Architecture: amd64
 Maintainer: MetaCubeX <none@example.com>
+Installed-Size: 60659
+Filename: ./pool/main/MetaCubeX/mihomo/v1.19.33/mihomo-linux-amd64-v1-v1.19.33.deb
+Size: 22758290
+MD5sum: 256cf09689a1141d370015aeb42b2fde
+SHA1: 9fa5ed06d78c083c3f6e1b7254807e5bd08ef72e
+SHA256: 46e1f3f34da91d3cf858c72e58558a9f463cd04837fab77584e56be121a0b8ab
+Section: net
+Priority: optional
+Homepage: https://wiki.metacubex.one/
+Description: The universal proxy platform.
+Bug: https://github.com/MetaCubeX/mihomo/issues
+License: GPL-3.0-or-later
+Vendor: none
+
+Package: mihomo
+Version: 1.19.33
+Architecture: amd64
+Maintainer: MetaCubeX <none@example.com>
 Installed-Size: 60599
 Filename: ./pool/main/MetaCubeX/mihomo/v1.19.33/mihomo-linux-amd64-v1.19.33.deb
 Size: 22727478
@@ -60,24 +78,6 @@ Size: 22747296
 MD5sum: c6b1bef14b9117a75718913bbcfbbd9b
 SHA1: b0e1a83ed908768038aa471cf8515a1427cf310c
 SHA256: 5cc79924fc6cb43adf24b6ef0b4dddf5dba08771d8a7e337ae524f19e5f386c6
-Section: net
-Priority: optional
-Homepage: https://wiki.metacubex.one/
-Description: The universal proxy platform.
-Bug: https://github.com/MetaCubeX/mihomo/issues
-License: GPL-3.0-or-later
-Vendor: none
-
-Package: mihomo
-Version: 1.19.33
-Architecture: amd64
-Maintainer: MetaCubeX <none@example.com>
-Installed-Size: 60659
-Filename: ./pool/main/MetaCubeX/mihomo/v1.19.33/mihomo-linux-amd64-v1-v1.19.33.deb
-Size: 22758290
-MD5sum: 256cf09689a1141d370015aeb42b2fde
-SHA1: 9fa5ed06d78c083c3f6e1b7254807e5bd08ef72e
-SHA256: 46e1f3f34da91d3cf858c72e58558a9f463cd04837fab77584e56be121a0b8ab
 Section: net
 Priority: optional
 Homepage: https://wiki.metacubex.one/
