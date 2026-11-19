@@ -15,6 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+    - name: Install APT archive tools
+      run: |
+        sudo apt-get update
+        sudo apt-get install --yes --no-install-recommends apt-utils
+        apt-ftparchive --version
     - name: Generate package index
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
