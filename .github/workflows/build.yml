@@ -18,14 +18,18 @@ jobs:
     - name: Install APT archive tools
       run: |
         sudo apt-get update
-        sudo apt-get install --yes --no-install-recommends apt-utils
+        sudo apt-get install --yes --no-install-recommends apt-utils gnupg gpgv
         apt-ftparchive --version
     - name: Generate package index
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SIGNER_API: ${{ secrets.SIGNER_API }}
       run: python3 main.py
-    - name: Deploy to GitHub Pages
+    - name: Sign and verify the APT release
+      if: "github.ref == 'refs/heads/master'"
+      env:
+        KUMARINO_APT_SIGNING_KEY: ${{ secrets.KUMARINO_APT_SIGNING_KEY }}
+      run: bash .github/scripts/sign-release.sh output/dists/stable output/pubkey
+    - name: Publish to gh-pages
       if: "github.ref == 'refs/heads/master'"
       run: |
         CINFO="$(git log -1 --pretty="[%h] %an: %s")"
@@ -39,4 +43,4 @@ jobs:
         git -c user.name=GitHub -c user.email=noreply@github.com commit \
           -m "Auto deploy from GitHub Actions build ${GITHUB_RUN_NUMBER}" \
           -m "$CINFO"
-        git push origin +HEAD:gh-pages
+        git push origin HEAD:gh-pages
